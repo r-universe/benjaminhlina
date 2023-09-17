@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/benjaminhlina/benjaminhlina.r-universe.dev
 	branch = HEAD
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	branch = devel
+	registered = false
 [submodule "ecotox"]
 	path = ecotox
 	url = https://github.com/benjaminhlina/ecotox
