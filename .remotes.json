@@ -13,10 +13,22 @@
     "from": "miscYAPS"
   },
   {
+    "package": "splusTimeDate",
+    "url": "https://github.com/spkaluzny/splusTimeDate",
+    "via": ["yaps"],
+    "from": "yaps"
+  },
+  {
     "package": "splusTimeSeries",
     "url": "https://github.com/spkaluzny/splusTimeSeries",
     "via": ["miscYAPS", "yaps"],
     "from": "miscYAPS"
+  },
+  {
+    "package": "splusTimeSeries",
+    "url": "https://github.com/spkaluzny/splusTimeSeries",
+    "via": ["yaps"],
+    "from": "yaps"
   },
   {
     "package": "yaps",
