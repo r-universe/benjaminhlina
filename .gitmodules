@@ -23,6 +23,14 @@
 [submodule "soapcheckr"]
 	path = soapcheckr
 	url = https://github.com/benjaminhlina/soap_checker
+[submodule "splusTimeDate"]
+	path = splusTimeDate
+	url = https://github.com/spkaluzny/splusTimeDate
+	registered = false
+[submodule "splusTimeSeries"]
+	path = splusTimeSeries
+	url = https://github.com/spkaluzny/splusTimeSeries
+	registered = false
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/ocean-tracking-network/yaps
