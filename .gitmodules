@@ -23,6 +23,10 @@
 [submodule "mort"]
 	path = mort
 	url = https://github.com/rosieluain/mort
+[submodule "otndo"]
+	path = otndo
+	url = https://github.com/mhpob/otndo
+	registered = false
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr

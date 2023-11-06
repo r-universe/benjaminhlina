@@ -7,6 +7,12 @@
     "from": "pathroutr"
   },
   {
+    "package": "otndo",
+    "url": "https://github.com/mhpob/otndo",
+    "via": ["matos"],
+    "from": "matos"
+  },
+  {
     "package": "splusTimeDate",
     "url": "https://github.com/spkaluzny/splusTimeDate",
     "via": ["miscYAPS", "yaps"],
