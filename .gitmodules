@@ -1,7 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/benjaminhlina/benjaminhlina.r-universe.dev
 	branch = HEAD
 [submodule "ecotox"]
 	path = ecotox
 	url = https://github.com/benjaminhlina/ecotox
+[submodule "glatos"]
+	path = glatos
+	url = https://github.com/ocean-tracking-network/glatos
+	branch = dev
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/jmlondon/pathroutr
+[submodule "soapcheckr"]
+	path = soapcheckr
+	url = https://github.com/benjaminhlina/soap_checker
