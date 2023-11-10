@@ -14,9 +14,15 @@
 	path = glatos
 	url = https://github.com/ocean-tracking-network/glatos
 	branch = dev
+[submodule "miscYAPS"]
+	path = miscYAPS
+	url = https://github.com/robertlennox/miscYAPS
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
 [submodule "soapcheckr"]
 	path = soapcheckr
 	url = https://github.com/benjaminhlina/soap_checker
+[submodule "yaps"]
+	path = yaps
+	url = https://github.com/ocean-tracking-network/yaps
