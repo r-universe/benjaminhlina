@@ -16,10 +16,13 @@
 	branch = dev
 [submodule "matos"]
 	path = matos
-	url = https://github.com/mhpob/matos/tree/master
+	url = https://github.com/mhpob/matos
 [submodule "miscYAPS"]
 	path = miscYAPS
 	url = https://github.com/robertlennox/miscYAPS
+[submodule "mort"]
+	path = mort
+	url = https://github.com/rosieluain/mort
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
