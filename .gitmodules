@@ -32,7 +32,7 @@
 	url = https://github.com/jmlondon/pathroutr
 [submodule "soapcheckr"]
 	path = soapcheckr
-	url = https://github.com/benjaminhlina/soap_checker
+	url = https://github.com/dill/soapcheckr
 [submodule "splusTimeDate"]
 	path = splusTimeDate
 	url = https://github.com/spkaluzny/splusTimeDate
