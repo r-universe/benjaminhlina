@@ -36,6 +36,10 @@
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
 [submodule "soapcheckr"]
 	path = soapcheckr
 	url = https://github.com/dill/soapcheckr

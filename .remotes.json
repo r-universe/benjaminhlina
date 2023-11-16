@@ -2,6 +2,13 @@
   {
     "package": "crawl",
     "url": "https://github.com/NMML/crawl",
+    "via": ["aniMotum", "pathroutr"],
+    "branch": "devel",
+    "from": "aniMotum"
+  },
+  {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
     "via": ["pathroutr"],
     "branch": "devel",
     "from": "pathroutr"
@@ -11,6 +18,18 @@
     "url": "https://github.com/mhpob/otndo",
     "via": ["matos"],
     "from": "matos"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["aniMotum"],
+    "from": "aniMotum"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["aniMotum"],
+    "from": "aniMotum"
   },
   {
     "package": "splusTimeDate",
