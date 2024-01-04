@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/benjaminhlina/benjaminhlina.r-universe.dev
 	branch = HEAD
+[submodule "aniMotum"]
+	path = aniMotum
+	url = https://github.com/ianjonsen/aniMotum
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
@@ -23,6 +26,9 @@
 [submodule "mort"]
 	path = mort
 	url = https://github.com/rosieluain/mort
+[submodule "moveHMM"]
+	path = moveHMM
+	url = https://github.com/TheoMichelot/moveHMM
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
