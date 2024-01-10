@@ -40,6 +40,10 @@
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
+[submodule "rvdat"]
+	path = rvdat
+	url = https://github.com/mhpob/rvdat
+	registered = false
 [submodule "soapcheckr"]
 	path = soapcheckr
 	url = https://github.com/dill/soapcheckr
