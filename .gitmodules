@@ -29,6 +29,9 @@
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/TheoMichelot/moveHMM
+[submodule "nichetools"]
+	path = nichetools
+	url = https://github.com/benjaminhlina/nichetools
 [submodule "otndo"]
 	path = otndo
 	url = https://github.com/mhpob/otndo
