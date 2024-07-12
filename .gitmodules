@@ -58,6 +58,9 @@
 	path = splusTimeSeries
 	url = https://github.com/spkaluzny/splusTimeSeries
 	registered = false
+[submodule "tRophicPosition"]
+	path = tRophicPosition
+	url = https://github.com/benjaminhlina/tRophicPosition
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/ocean-tracking-network/yaps
