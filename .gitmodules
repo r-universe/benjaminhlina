@@ -62,6 +62,9 @@
 	path = tRophicPosition
 	url = https://github.com/benjaminhlina/tRophicPosition
 	branch = Hlina-update-docs-seeds
+[submodule "trps"]
+	path = trps
+	url = https://github.com/benjaminhlina/trps
 [submodule "yaps"]
 	path = yaps
 	url = https://github.com/ocean-tracking-network/yaps
