@@ -58,10 +58,6 @@
 	path = splusTimeSeries
 	url = https://github.com/spkaluzny/splusTimeSeries
 	registered = false
-[submodule "tRophicPosition"]
-	path = tRophicPosition
-	url = https://github.com/benjaminhlina/tRophicPosition
-	branch = Hlina-update-docs-seeds
 [submodule "trps"]
 	path = trps
 	url = https://github.com/benjaminhlina/trps
