@@ -5,11 +5,6 @@
 [submodule "aniMotum"]
 	path = aniMotum
 	url = https://github.com/ianjonsen/aniMotum
-[submodule "crawl"]
-	path = crawl
-	url = https://github.com/NMML/crawl
-	branch = devel
-	registered = false
 [submodule "ecotox"]
 	path = ecotox
 	url = https://github.com/benjaminhlina/ecotox
@@ -32,32 +27,12 @@
 [submodule "nichetools"]
 	path = nichetools
 	url = https://github.com/benjaminhlina/nichetools
-[submodule "otndo"]
-	path = otndo
-	url = https://github.com/mhpob/otndo
-	registered = false
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
-[submodule "rvdat"]
-	path = rvdat
-	url = https://github.com/mhpob/rvdat
-	registered = false
 [submodule "soapcheckr"]
 	path = soapcheckr
 	url = https://github.com/dill/soapcheckr
-[submodule "splusTimeDate"]
-	path = splusTimeDate
-	url = https://github.com/spkaluzny/splusTimeDate
-	registered = false
-[submodule "splusTimeSeries"]
-	path = splusTimeSeries
-	url = https://github.com/spkaluzny/splusTimeSeries
-	registered = false
 [submodule "trps"]
 	path = trps
 	url = https://github.com/benjaminhlina/trps
